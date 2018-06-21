@@ -1,0 +1,23 @@
+{
+  "name": "college-buddy-uiit",
+  "version": "1.0.0",
+  "description": "buddy for uiit students",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant13b/college-buddy-uiit.git"
+  },
+  "author": "Prashant Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant13b/college-buddy-uiit/issues"
+  },
+  "homepage": "https://github.com/prashant13b/college-buddy-uiit#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
